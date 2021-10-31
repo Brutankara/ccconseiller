@@ -21,26 +21,49 @@ So, the tile is identified like: P1G1G1G1P1G2G2G2
 List of tiles
 
 +P1GP1G x8
+
 +GP1G-M x2
+
 +GP1P1 x9
+
 +GGG-M x4
+
 +C1P1P1C1 x3
+
 +C1P1P1C1-S x2
+
 +GC1GC1 x1
+
 +GC1GC1-S x2
+
 +GC1GC2 x3
+
 +C1GP1P1 x3
+
 +C1P1P1G x3
+
 +C1C1GG x3
+
 +C1C1GG-S x2
+
 +C1P1GP1 x4
+
 +C1C2GG x2
+
 +P1P2P3P4 x1
+
 +C1P1P2P3 x3
+
 +GP1P2P3 x4
+
 +C1C1GC1 X2
+
 +C1C1GC1-S x1
+
 +C1C1P1C1 X1
+
 +C1C1P1C1-S x2
+
 +C1C1C1C1-S x1
+
 +C1GGG  x5
