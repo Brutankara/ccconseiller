@@ -20,7 +20,7 @@ Example:
 
 In this example, the tile will be named like this:
 
-![](https://github.com/GermanCalderonLeiva/ccconseiller/blob/main/Sample_Tile_Example.png?raw=true)
+![](https://github.com/GermanCalderonLeiva/ccconseiller/blob/main/Sample_Tile_Example.png.png?raw=true)
 
 So, the tile is identified like: P1GP1G
 
