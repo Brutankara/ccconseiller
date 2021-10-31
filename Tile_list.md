@@ -1,9 +1,15 @@
 
 Tiles are defined by its borders. Each tile may have three kinds of borders:
-    - G: Grass
-    - P: Path
-    - C: City
-    
+
+
+- G: Grass
+
+- P: Path
+
+- C: City
+
+
+
 A tile with shield or monastery has an additional -S if it has shield and/or an additional -M if it has a monastery.
 A path or a city border will be followed by a number, where borders with the same number and tile, represents connected path or cities within the same tile.
 
